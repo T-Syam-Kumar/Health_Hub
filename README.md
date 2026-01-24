@@ -125,10 +125,3 @@ Feel free to fork, clone, and modify it as per your needs.
 
 ---
 
-### ✅ Next Steps:
-1. Copy and paste this into your README.md
-2. Push to GitHub:
-   bash
-   git add README.md
-   git commit -m "Added detailed project README"
-   git push
