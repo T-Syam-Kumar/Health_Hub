@@ -9,14 +9,6 @@
 👉 **View Project Online**: https://t-syam-kumar.github.io/Health_Hub/  
 *⚠ Note: If the site does not load instantly, give GitHub Pages a few minutes to build and publish your content.*
 
----
-
-## 📸 Screenshots
-
-> Upload your screenshots inside the `docs/screenshots/` folder and reference them here like this:
-
-![Home Page](docs/screenshots/homepage.png)
-*Fig: Health Hub Landing Page*
 
 ---
 
