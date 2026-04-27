@@ -14,12 +14,12 @@
 
 ## 🛠 Tech Stack
 
-| Tech         | Description                       |
-|--------------|------------------------------------|
-| HTML5        | Structure of the web pages         |
-| CSS3         | Styling and responsive layout      |
+| Tech         | Description                          |
+|--------------|--------------------------------------|
+| HTML5        | Structure of the web pages           |
+| CSS3         | Styling and responsive layout        |
 | JavaScript   | Interactivity (for calculators etc.) |
-| GitHub Pages | Hosting the live website           |
+| GitHub Pages | Hosting the live website             |
 
 ---
 
