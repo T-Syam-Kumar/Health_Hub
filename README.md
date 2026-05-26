@@ -1,18 +1,18 @@
-# 🏥 Health Hub
+#  Health Hub
 
 **Health Hub** is an intuitive and informative healthcare web application built to promote healthy living and provide users with tools and resources to monitor and improve their well-being. Designed with a clean interface and easy navigation, Health Hub is your one-stop solution for reliable health tips, basic calculators, and lifestyle suggestions.
 
 ---
  
-## 🌐 Live Demo
+##  Live Demo
 
-👉 **View Project Online**: https://t-syam-kumar.github.io/Health_Hub/  
+ **View Project Online**: https://t-syam-kumar.github.io/Health_Hub/  
 *⚠ Note: If the site does not load instantly, give GitHub Pages a few minutes to build and publish your content.*
 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Tech         | Description                          |
 |--------------|--------------------------------------|
@@ -23,17 +23,17 @@
 
 ---
 
-## 💡 Key Features
+##  Key Features
 
-- 📋 **Health Tips** — Curated tips to lead a healthy life
-- ⚖ **BMI Calculator** — Helps users calculate their Body Mass Index
-- ⏱ **Responsive Design** — Optimized for mobile, tablet, and desktop
-- 🌐 **Deployed on GitHub Pages** — Easily accessible from anywhere
-- ⚡ **Fast Load Times** — Lightweight and optimized static pages
+-  **Health Tips** — Curated tips to lead a healthy life
+-  **BMI Calculator** — Helps users calculate their Body Mass Index
+-  **Responsive Design** — Optimized for mobile, tablet, and desktop
+-  **Deployed on GitHub Pages** — Easily accessible from anywhere
+-  **Fast Load Times** — Lightweight and optimized static pages
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 
 
@@ -49,11 +49,11 @@ Health\_Hub/
 
 `
 
-> 📌 All website files are located inside the `docs/` folder to support GitHub Pages deployment.
+>  All website files are located inside the `docs/` folder to support GitHub Pages deployment.
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 To run this project locally on your machine:
 
@@ -72,7 +72,7 @@ To run this project locally on your machine:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! If you'd like to suggest improvements or new features:
 
@@ -84,23 +84,23 @@ Contributions are welcome! If you'd like to suggest improvements or new features
 
 ---
 
-## 🙋‍♂ FAQ
+##  FAQ
 
-### ❓ Is this project mobile responsive?
+### -  Is this project mobile responsive?
 
 Yes! Health Hub is fully responsive and works across devices.
 
-### ❓ Can I use this template for my own project?
+### -  Can I use this template for my own project?
 
 Absolutely! This project is open-source under the MIT License.
 
-### ❓ Where can I report bugs?
+### -  Where can I report bugs?
 
 Please open an issue in the [GitHub Issues section](https://github.com/T-Syam-Kumar/Health_Hub/issues).
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 * **Name**: T Syam Kumar
 * **GitHub**: [@T-Syam-Kumar](https://github.com/T-Syam-Kumar)
@@ -108,12 +108,10 @@ Please open an issue in the [GitHub Issues section](https://github.com/T-Syam-Ku
 
 ---
 
-## 📃 License
+##  License
 
 This project is licensed under the **MIT License**.
 Feel free to fork, clone, and modify it as per your needs.
-
-`
 
 ---
 
