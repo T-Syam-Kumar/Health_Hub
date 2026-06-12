@@ -7,7 +7,7 @@
 ##  Live Demo
 
  **View Project Online**: https://t-syam-kumar.github.io/Health_Hub/  
-*⚠ Note: If the site does not load instantly, give GitHub Pages a few minutes to build and publish your content.*
+* Note: If the site does not load instantly, give GitHub Pages a few minutes to build and publish your content.*
 
 
 ---
@@ -104,7 +104,7 @@ Please open an issue in the [GitHub Issues section](https://github.com/T-Syam-Ku
 
 * **Name**: T Syam Kumar
 * **GitHub**: [@T-Syam-Kumar](https://github.com/T-Syam-Kumar)
-* 💌 *Feel free to connect and contribute!*
+*  *Feel free to connect and contribute!*
 
 ---
 
