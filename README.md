@@ -103,7 +103,7 @@ Please open an issue in the [GitHub Issues section](https://github.com/T-Syam-Ku
 ##  Author
 
 * **Name**: T Syam Kumar
-* **GitHub**: [@T-Syam-Kumar](https://github.com/T-Syam-Kumar)
+* **GitHub**: [T-Syam-Kumar](https://github.com/T-Syam-Kumar)
 *  *Feel free to connect and contribute!*
 
 ---
@@ -114,4 +114,3 @@ This project is licensed under the **MIT License**.
 Feel free to fork, clone, and modify it as per your needs.
 
 ---
-
