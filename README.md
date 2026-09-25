@@ -33,20 +33,6 @@
 
 ---
 
-##  Project Structure
-
-
-
-Health\_Hub/
-├── docs/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   ├── assets/
-│   └── screenshots/
-├── .gitignore
-└── README.md
-
 `
 
 >  All website files are located inside the `docs/` folder to support GitHub Pages deployment.
