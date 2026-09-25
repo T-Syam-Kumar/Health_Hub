@@ -33,12 +33,6 @@
 
 ---
 
-`
-
->  All website files are located inside the `docs/` folder to support GitHub Pages deployment.
-
----
-
 ##  Run Locally
 
 To run this project locally on your machine:
