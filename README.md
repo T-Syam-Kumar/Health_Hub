@@ -80,8 +80,4 @@ Please open an issue in the [GitHub Issues section](https://github.com/T-Syam-Ku
 
 ---
 
-##  Author
-
-* **Name**: T Syam Kumar
-* **GitHub**: [T-Syam-Kumar](https://github.com/T-Syam-Kumar)
 *  *Feel free to connect and contribute!*
